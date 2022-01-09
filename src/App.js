@@ -11,7 +11,7 @@ function App() {
         <Dictionary />
       </main>
       <footer>
-
+         <p className='myName'>Coded by Marin Rei</p>
       </footer>
       </div>
     </div>
