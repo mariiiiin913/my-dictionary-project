@@ -1,3 +1,7 @@
-h2,h3,.definition,.example::first-letter{
+h2,h3,p::first-letter{
     text-transform: capitalize;
+}
+
+h3{
+    margin-top: 10px;
 }
