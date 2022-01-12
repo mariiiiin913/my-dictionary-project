@@ -24,10 +24,12 @@ const[results, setResults]=useState(null);
   }
 
     return (
-        <div className="dictionary">
+        <div className="Dictionary">
+          <section>
           <form onSubmit={search}>
             <input type="search" onChange={handleKeywordUpdate}/>
             </form>
+            </section>
             <Results results={results}/>
             </div>);
 }
