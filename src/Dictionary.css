@@ -5,3 +5,15 @@
   box-shadow: 0 10px 10px rgb(0 0 0 /10%);
   margin: 20px 0;
 }
+
+.Dictionary input{
+  width: 100%;
+  padding: 6px 10px;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+.Dictionary .hint{
+  font-size: 15px;
+  margin-top: 5px;
+}
