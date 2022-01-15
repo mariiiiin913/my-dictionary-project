@@ -29,6 +29,9 @@ const[results, setResults]=useState(null);
           <form onSubmit={search}>
             <input type="search" onChange={handleKeywordUpdate}/>
             </form>
+            <div className="hint">
+              Look up a word...
+            </div>
             </section>
             <Results results={results}/>
             </div>);
