@@ -1,14 +1,21 @@
 .App{
     text-align: left;
 }
-.container{
+.App .container{
     padding: 30px 100px;
 
 }
-.myName{
+.App .myName{
     color: white;
     margin: 20px;
     font-size: 16px;
     font-weight:bold;
     text-align: center;
+}
+.App .profile-link{
+    color: white;
+    text-decoration: none;
+}
+.App .profile-link:hover{
+    color: rgb(134, 247, 255);
 }

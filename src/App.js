@@ -11,7 +11,7 @@ function App() {
         <Dictionary />
       </main>
       <footer>
-         <p className='myName'>Coded by <a href="https://www.linkedin.com/in/marin-rei-70260690/" target="_blank" rel="noreferrer"> Marin Rei</a></p>
+         <p className='myName'>Coded by <a href="https://www.linkedin.com/in/marin-rei-70260690/" target="_blank" rel="noreferrer" className="profile-link"> Marin Rei</a></p>
       </footer>
       </div>
     </div>
