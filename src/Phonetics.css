@@ -3,9 +3,17 @@
     border-radius: 20px;
     background:rgb(67, 67, 114);
     color: #fff;
+    font-size: 13px;
     text-decoration: none;
     padding: 10px 20px;
 }
+.Phonetics a:hover{
+    color:rgb(67, 67, 114);
+    background: rgb(242, 242, 242);
+    transition: all 200ms ease-in-out;
+}
 .Phonetics .phonetic-text{
-    padding-top: 15px
+    font-size: 18px;
+    padding: 0px 10px;
+    opacity: 0.7;
 }
