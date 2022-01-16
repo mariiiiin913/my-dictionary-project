@@ -1,10 +1,14 @@
-li{
-    text-align: left;
+.Synonyms{
+    margin-top: 20px;
 }
 
-li::first-letter{
-    text-transform: capitalize; 
+.Synonyms li{
+    display: inline-block;
+    padding-right: 10px;
+    font-size: 13px;
+    line-height: 1;
 }
-.synonyms{
-    margin-top: 20px;
+
+.Synonyms li::first-letter{
+    text-transform: capitalize; 
 }

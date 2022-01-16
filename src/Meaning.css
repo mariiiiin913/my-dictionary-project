@@ -4,3 +4,7 @@ span{
 span::first-letter{
     text-transform: capitalize;
 }
+
+.definition {
+    padding-bottom: 20px;
+}

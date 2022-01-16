@@ -40,7 +40,7 @@ const[loaded,setLoaded]=useState(false);
               Look up a word...
             </div>
           <form onSubmit={handleSubmit}>
-            <input type="search" onChange={handleKeywordUpdate}/>
+            <input type="search" onChange={handleKeywordUpdate} defaultValue={props.defaultKeyword}/>
             </form>
             </section>
             <Results results={results}/>
