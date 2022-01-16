@@ -1,3 +1,11 @@
 .Phonetics a{
-    color: darkblue;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    background:rgb(67, 67, 114);
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+.Phonetics .phonetic-text{
+    padding-top: 15px
 }
