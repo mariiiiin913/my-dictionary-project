@@ -1,10 +1,14 @@
 .App{
     text-align: left;
 }
-.myName{
-    margin-top: 30px;
-    font-size: 16px;
-    font-weight: bold;
-    text-align: center;
+.container{
+    padding: 30px 100px;
 
+}
+.myName{
+    color: white;
+    margin: 20px;
+    font-size: 16px;
+    font-weight:bold;
+    text-align: center;
 }

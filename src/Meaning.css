@@ -1,7 +1,12 @@
+h2, h3{
+    font-weight: bold;
+}
+
 h2,h3::first-letter{
     text-transform: capitalize;
 }
 
 h3{
     text-decoration: underline;
+    padding-bottom: 15px;
 }

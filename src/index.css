@@ -1,5 +1,6 @@
 body {
-  background: rgb(209, 254, 247);
+  color: #333;
+  background-image: url(./dictionary.jpg);
   margin: 0;
   font-family: 'Roboto Slab', serif;;
   -webkit-font-smoothing: antialiased;
