@@ -1,0 +1,12 @@
+.Results h2, h3{
+    font-weight: bold;
+}
+
+.Results h2,h3::first-letter{
+    text-transform: capitalize;
+}
+
+.Results h3{
+    text-decoration: underline;
+    padding-bottom: 15px;
+}
