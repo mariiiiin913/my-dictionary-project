@@ -1,0 +1,6 @@
+span{
+    display: inline-block;
+}
+span::first-letter{
+    text-transform: capitalize;
+}
