@@ -7,4 +7,8 @@ span::first-letter{
 
 .definition {
     padding-bottom: 20px;
+    color: black;
+}
+.example{
+    color: rgb(67, 66, 66);
 }
