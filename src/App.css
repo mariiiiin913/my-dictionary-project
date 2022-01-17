@@ -17,10 +17,9 @@
     font-weight:bold;
     text-align: center;
 }
-.App .profile-link{
-    color: white;
+.profile-link, .github-link, .netlify-link{    
     text-decoration: none;
+    color: #89e5fc;
+    font-weight: 900px;
 }
-.App .profile-link:hover{
-    color: rgb(67, 67, 114);
-}
+
